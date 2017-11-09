@@ -10,7 +10,7 @@ git clone https://github.com/LewisErick/IntroToMLCodeLab.git
 Please install this additional package using your terminal:
 
 ```
-python -mpip install -U matplotlib
+sudo python -mpip install -U matplotlib
 ```
 
 It's not necessary but it'll let you see our predictions in graphs!
